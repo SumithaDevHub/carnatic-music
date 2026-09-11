@@ -72,3 +72,9 @@ src/
         ├── admin.ts
         └── proxy.ts
 ```
+
+# Carnatic Music Learning Portal
+
+🌐 **Live Website:** https://carnatic-music.vercel.app/
+
+A simple digital learning portal created to preserve and organize our Carnatic music notes, learnings, and resources.
